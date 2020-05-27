@@ -1,0 +1,136 @@
+	body { 
+       background-image: url('../image/download.jpg');
+	   width:1000px;
+	   height:600px;
+	   margin:0 auto;
+	}
+	header{
+		width:284px;
+		height:177px;
+		margin:0 auto;
+	}
+	.redesocial {
+		float:left; 
+	}
+	.logo{ 
+		width:284px;
+		height:177px; 
+		margin:0 auto;
+	}
+	menu{
+		width:958px; 
+		height:51px;
+		background-image: url('../image/menu1.jpg');
+		background-repeat: repeat-x;
+		margin-top: 43px;
+		margin-bottom:0 auto;
+	}
+	menu ul li{
+		float:left;
+		list-style-type:none;
+		line-height:49px;
+		font-family:Arial; color: #808080;
+		font-size:14px;
+		text-align:center;
+		border: 1px solid black;	
+	}
+	.menu1{
+		background-color:black;
+		margin:0 auto;
+		padding:0 auto;
+		margin-top:0px;
+	}
+	menu li{
+		width:150px;
+		height:50px;
+	}
+	section{
+		background-color:white;
+		width:1000px;
+		min-height:500px;
+		margin:0 auto;
+	}	
+	.figura1{	
+		width:310px;
+		float:left;
+		position:absolute;
+		top:430px;
+		left:200px;
+	}
+	.figura2{
+		width:310px;
+		float:center;
+		position:absolute;
+		top:430px;
+		left:525px;
+	}
+	.figura3{
+		width:310px;	
+		float:right;
+		position:absolute;
+		top:430px;
+		left:872px;
+	}
+	.titulo{
+		font-size:50px;
+		text-align:center;
+		font-family:Arial;
+	}
+	footer{
+		background-color:gray;
+		min-height:50px;
+		width:1000px;
+		margin:0 auto;
+		text-align:center;
+	}
+	
+	.learn1{
+		background-color:#d52b1e;
+		height:40px;
+		width:200px;
+		border-radius:10px;
+		border-style:solid;
+		border-color:#d52b1e;
+		font-size:25px;
+		position:absolute;
+		top:750px;
+		left:225px;
+		color:white;
+		text-align:center;
+	}
+	
+	
+	.learn2{
+		background-color:#d52b1e;
+		height:40px;
+		width:200px;
+		border-radius:10px;
+		border-style:solid;
+		border-color:#d52b1e;
+		font-size:25px;
+		position:absolute;
+		top:750px;
+		left:565px;
+		color:white;
+		text-align:center;
+
+	}
+	.learn3{
+		background-color:#d52b1e;
+		height:40px;
+		width:200px;
+		border-radius:10px;
+		border-style:solid;
+		border-color:#d52b1e;	
+		font-size:25px;
+		position:absolute;
+		top:750px;
+		left:930px;
+		color:white;
+		text-align:center;
+	}
+	a:link
+{
+text-decoration:none;
+}
+	
